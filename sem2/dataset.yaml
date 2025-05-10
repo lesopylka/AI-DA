@@ -1,0 +1,8 @@
+path: C:/Users/missm/AI-DA/sem2/dataset_yolo
+train: images/train
+val: images/val
+
+names:
+  0: WBC
+  1: RBC
+  2: Platelets
