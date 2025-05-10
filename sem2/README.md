@@ -9,13 +9,13 @@ BCCD используется в исследованиях, направлен�
 - Увеличить точность и скорость диагностики
 - Обеспечить объективность результатов
 
+ ![example](https://github.com/user-attachments/assets/298c4387-0b16-4822-906a-c872fc854744)
 
 - * The structure of the `BCCD_dataset`
 
   ```
   ├── BCCD
   │   ├── Annotations
-  ![example](https://github.com/user-attachments/assets/298c4387-0b16-4822-906a-c872fc854744)
 │   │       └── BloodImage_00XYZ.xml (364 items)
   │   ├── ImageSets       # Contain four Main/*.txt which split the dataset
   │   └── JPEGImages
