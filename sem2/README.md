@@ -11,12 +11,12 @@ BCCD используется в исследованиях, направлен�
 
  ![example](https://github.com/user-attachments/assets/298c4387-0b16-4822-906a-c872fc854744)
 
-- * The structure of the `BCCD_dataset`
+* The structure of the `BCCD_dataset`
 
   ```
   ├── BCCD
   │   ├── Annotations
-│   │       └── BloodImage_00XYZ.xml (364 items)
+  │   │       └── BloodImage_00XYZ.xml (364 items)
   │   ├── ImageSets       # Contain four Main/*.txt which split the dataset
   │   └── JPEGImages
   │       └── BloodImage_00XYZ.jpg (364 items)
